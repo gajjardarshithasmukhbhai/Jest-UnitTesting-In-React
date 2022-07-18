@@ -1,5 +1,30 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/71297412/178180562-38f53e67-a31f-4c9f-b1a1-c9221703df4b.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png">
-  <img alt="Hashnode logo" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" height="25">
-</picture>
+# Hi, I'm Darshit Gajjar! 👋
+
+## 🚀 About Me
+
+I'm a full stack developer in Virtusa. Currently, I am worked on the USA security Leading company Project.
+
+## Welcome in My Digital Garden
+
+👩‍💻 I'm Technology Lover
+
+🧠 Apart From Technology I have Interest in Defence Technology Like Hyper missile, LCA Tejas
+
+👯‍♀️ I'm looking to collaborate on My Open Source Project
+
+⚡️ I am Happy to share I shortly Launch Brand New product it name is
+**Darshit Resume Builder**
+
+## 🛠 Skills
+
+- Micro Front End
+- AWS Core Services
+- Jest
+- React
+- Redux
+- Redux Saga
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://play.google.com/store/apps/details?id=com.darshit_clicks)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshit-gajjar-532098152/)
